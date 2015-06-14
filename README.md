@@ -40,4 +40,5 @@ isValid ($url, $absolute=true)
 
 
 Contributions are appreciated and welcome.
+
 Origin Author: Hasan Hameed <hasan.hameed07@gmail.com>
