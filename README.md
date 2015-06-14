@@ -18,6 +18,7 @@ isAlnumHyphen ($string)
 
 isAlnumUnderscore ($string)
 
+
 ### String Length
 
 within ($string, $minlength, $maxlength)
@@ -26,13 +27,16 @@ isLessThan ($string, $maxlength)
 
 isGreaterThan ($string, $minlength)
 
+
 ### Email
 
 isValid ($email)
 
+
 ### URL
 
 isValid ($url, $absolute=true)
+
 
 
 Contributions are appreciated and welcome.
